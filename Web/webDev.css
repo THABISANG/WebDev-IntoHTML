@@ -1,0 +1,13 @@
+img{
+    width: 50%;
+    height:30px;
+    margin: 1px auto;
+    display: block;
+}
+.logo{
+    transition: all 0.4s;
+}
+.logo:hover
+{
+    transform : scale(1.3);
+}
